@@ -8,54 +8,49 @@
 
 </div>
 
-
-
 ---
 
 ## <a name="english"></a>English
 
-I hold a degree in Database Management from SENAC, and at 22 years old, I’m based in São Paulo. My passion for Programming and Data has driven me to build a solid career as an Operational Governance Analyst at Marsh, where I began as a Junior and currently work as a Mid-Level Analyst.
+I am a **Database Administrator (DBA)** focused on availability, security, and performance of enterprise database environments. I work primarily with **Oracle Database**, and also support **PostgreSQL** and **SQL Server** environments in critical business operations.
 
-My experience includes managing and optimizing processes through advanced Excel spreadsheets and implementing automation to enhance operational efficiency. Additionally, I handle documents and develop Tkinter interfaces to facilitate data entry into spreadsheets. I use Python scripts, leveraging libraries such as Pandas, NumPy, and OPENPYXL, to analyze and integrate data, ensuring the integrity and accuracy of information in complex spreadsheets.
+My responsibilities include daily database administration tasks such as **performance monitoring**, analysis of **CPU, memory, disk, and session usage**, and support in identifying and resolving operational incidents. I actively participate in **performance tuning**, SQL query optimization, index adjustments, and provide support to development and operations teams.
 
-I present data in dashboards using Power Query/DAX and automate routine file operations on SharePoint, creating processes that integrate spreadsheets with lists via Power Automate. Currently, I’m involved in a Power Apps project focused on communicating new credentials within the operations area.
+I also work with **backup and recovery routines**, using **Oracle RMAN** in **Oracle Cloud Infrastructure (OCI)** environments, as well as logical backups with **Oracle Data Pump (expdp)**, ensuring data integrity and availability. I have experience with **Flashback Database** for logical recovery and support **high availability and disaster recovery** scenarios using **Oracle Data Guard**.
 
-My goal is to continue developing solutions that optimize processes and drive efficiency in operations, always with a keen eye on data quality and accuracy.
+I am responsible for supporting **user, role, and permission management**, following the **principle of least privilege**, as well as implementing and monitoring **access audits and sensitive activity tracking** across QA, staging, and production environments.
+
+In the cloud, I work with **Oracle Cloud Infrastructure (OCI)**, monitoring database resources, storage, metrics, and overall system health, contributing to more **stable, secure, and efficient environments**.
+
+I continuously invest in professional growth and hold Oracle Cloud certifications, including:
+
+- OCI Data Foundations  
+- OCI Infrastructure Foundations  
+- OCI AI Foundations  
+- Oracle Cloud Architecture – Architect Associate  
 
 ---
 
 ## <a name="português"></a>Português
 
-Sou formado em Banco de Dados pelo SENAC e tenho 22 anos, vivendo em São Paulo. Minha paixão por Programação e Dados me levou a construir uma carreira sólida como Analista de Governança Operacional na Marsh, onde comecei como Júnior e atualmente atuo como Pleno.
+Atualmente atuo como **DBA**, com foco na administração, disponibilidade, segurança e desempenho de ambientes de banco de dados corporativos. Trabalho diretamente com **Oracle Database**, além de atuar em ambientes **PostgreSQL** e **SQL Server**, apoiando operações críticas de negócio.
 
-Minha experiência inclui gerenciar e otimizar processos com o uso de planilhas Excel avançadas e implementar automações para elevar a eficiência operacional. Além disso, manipulo documentos e desenvolvo telas em Tkinter para facilitar a inserção de dados em planilhas. Utilizo scripts Python, combinando as bibliotecas Pandas, NumPy e OPENPYXL, para analisar e integrar dados, assegurando a integridade e a precisão das informações em planilhas complexas.
+Minhas responsabilidades incluem a administração diária dos bancos de dados, realizando atividades como **monitoramento de performance**, análise de consumo de **CPU, memória, disco e sessões**, além de apoiar na identificação e resolução de incidentes operacionais. Participo ativamente de ações de **performance tuning**, análise e otimização de consultas SQL, ajustes de índices e suporte aos times de desenvolvimento e operações.
 
-Apresento dados em dashboards usando Power Query/DAX e automatizo operações rotineiras de arquivos no SharePoint, criando processos que integram planilhas ao Excel com listas por meio do Power Automate. Atualmente, estou envolvido em um projeto de Power Apps focado em comunicar novas credenciais na área de operação.
+Atuo também em rotinas de **backup e recuperação**, utilizando **Oracle RMAN** em ambientes na **Oracle Cloud Infrastructure (OCI)**, além de backups lógicos com **Oracle Data Pump (expdp)**, garantindo a integridade e disponibilidade das informações. Tenho experiência com **Flashback Database** para recuperação lógica de dados e apoio em cenários de **alta disponibilidade e disaster recovery**, utilizando **Oracle Data Guard**.
 
-Meu objetivo é continuar desenvolvendo soluções que otimizem processos e promovam a eficiência nas operações, sempre com um olhar atento à qualidade e precisão dos dados.
+Sou responsável pelo apoio à **gestão de usuários, roles e permissões**, seguindo o princípio de **menor privilégio**, além da implementação e acompanhamento de **auditorias de acesso e atividades sensíveis** em ambientes de QA, homologação e produção.
 
+No ambiente de nuvem, atuo com **Oracle Cloud Infrastructure (OCI)**, acompanhando recursos de banco de dados, storage, métricas e monitoramento, contribuindo para ambientes mais **estáveis, seguros e eficientes**.
 
-  <!--<h4 align="left">
-<a target="_blank" href="https://leonardopetruncko.github.io/">🚀 Portfolio (Fechado temporiamente)</a>
-</h4>
-  
- <!--<h2>Habilidades e ferramentas</h2>
+Além da atuação técnica, busco constante evolução profissional e possuo formações e certificações em Oracle Cloud, incluindo:
 
-|Back|Front|Data Base|Version Control|
-|---------|------------|------------|------------|
-|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></img>|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></img><img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></img>|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></img></img><img width="40" height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></img>|<img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img><img width="40" height="40" style="background: #FFFFFF;" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></img>
--->
+- OCI Data Foundations  
+- OCI Infrastructure Foundations  
+- OCI AI Foundations  
+- Oracle Cloud Architecture – Architect Associate  
+
 ---
- <!--
- <div style="display: inline_block"><br>
- <img align="center" alt="HTML" height="40" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
- <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
-</div>
-
-<br>
 
 <div align="center">
 <a href="https://github.com/leonardoPetruncko"></a>
